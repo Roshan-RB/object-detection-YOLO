@@ -1,0 +1,7 @@
+# Ignore large & unnecessary files
+data/
+yolo_env/
+__pycache__/
+*.log
+src/runs
+output.jpg
